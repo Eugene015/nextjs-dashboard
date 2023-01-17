@@ -8,8 +8,8 @@ function TopCards() {
           <p className="text-2xl font-bold">$3,595</p>
           <p className="text-gray-600">Daily Revenue</p>
         </div>
-        <p className="bg-green-200 flex justify-center items-center p-2 rounded-lg">
-          <span className="text-green-700 text-lg">+24%</span>
+        <p className="bg-green-500 flex justify-center items-center p-2 rounded-lg">
+          <span className="text-white text-lg">+24%</span>
         </p>
       </div>
       <div className="lg:col-span-2 col-span-1 bg-white flex justify-between w-full border p-4 rounded-lg">
@@ -17,8 +17,8 @@ function TopCards() {
           <p className="text-2xl font-bold">$756,595</p>
           <p className="text-gray-600">YTD Revenue</p>
         </div>
-        <p className="bg-green-200 flex justify-center items-center p-2 rounded-lg">
-          <span className="text-green-700 text-lg">+35%</span>
+        <p className="bg-green-500 flex justify-center items-center p-2 rounded-lg">
+          <span className="text-white text-lg">+35%</span>
         </p>
       </div>
       <div className="bg-white flex justify-between w-full border p-4 rounded-lg">
@@ -26,8 +26,8 @@ function TopCards() {
           <p className="text-2xl font-bold">$10,233</p>
           <p className="text-gray-600">Customers</p>
         </div>
-        <p className="bg-green-200 flex justify-center items-center p-2 rounded-lg">
-          <span className="text-green-700 text-lg">+41%</span>
+        <p className="bg-green-500 flex justify-center items-center p-2 rounded-lg">
+          <span className="text-white text-lg">+41%</span>
         </p>
       </div>
     </div>
