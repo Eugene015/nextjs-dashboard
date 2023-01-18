@@ -32,8 +32,8 @@ function BarChart() {
         {
           label: "Sales $",
           data: [18127, 22201, 19490, 17938, 24182, 17842, 22475],
-          borderColor: "rgb(149, 252, 212)",
-          backgroundColor: "rgb(149, 252, 212, 0.5",
+          borderColor: "rgb(0, 252, 0)",
+          backgroundColor: "rgb(0, 252, 0, 0.4",
         },
       ],
     });
