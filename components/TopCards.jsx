@@ -23,7 +23,7 @@ function TopCards() {
       </div>
       <div className="bg-white flex justify-between w-full border p-4 rounded-lg">
         <div className="flex flex-col w-full pb-4">
-          <p className="text-2xl font-bold">$10,233</p>
+          <p className="text-2xl font-bold">10,233</p>
           <p className="text-gray-600">Customers</p>
         </div>
         <p className="bg-green-500 flex justify-center items-center p-2 rounded-lg">
